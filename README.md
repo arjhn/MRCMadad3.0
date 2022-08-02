@@ -15,3 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # MRCMadad3.0
+
+
+echo "# MRCMadad3.0" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:arjhn/MRCMadad3.0.git
+git push -u origin main

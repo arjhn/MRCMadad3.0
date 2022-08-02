@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199804671234",
+    "project_id": "mrc-madad-3",
+    "storage_bucket": "mrc-madad-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199804671234:android:178196272095d5948b9e1b",
+        "android_client_info": {
+          "package_name": "com.bhargav.mrc_madad_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199804671234-60v9js46ja011v4suri3u35is9ps9cei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhargav.mrc_madad_3",
+            "certificate_hash": "011bc46b3ecbf7df4010b1512ab145701e4dc84f"
+          }
+        },
+        {
+          "client_id": "199804671234-77jafm0fq2scg90nbhevvlgp5k6its8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1aOvHZBFS21ix79fkbsnt4LmNtTy0gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199804671234-77jafm0fq2scg90nbhevvlgp5k6its8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

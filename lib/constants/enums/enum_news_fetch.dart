@@ -1,0 +1,4 @@
+enum EnumNewsFetch{
+ Incomplete,
+ Complete
+}
